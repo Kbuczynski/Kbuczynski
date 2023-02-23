@@ -22,6 +22,7 @@ To check my recent works welcome to visit my website [kbuczynski.pl](https://kbu
 ![](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
 
 ### Backend
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 
