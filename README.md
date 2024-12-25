@@ -1,6 +1,6 @@
 ## Hello 👋🏻
 
-I'm developer from Poland, with a ❤️ to Javascript. I'm specializes in creating web and mobile applications. Currently, I'm working as Software Engineer and studying Computer Science, but I'm open to different proposals for cooperation too.
+I'm developer from Poland, with a ❤️ to Javascript. I'm specializes in creating web and mobile applications. Currently, I'm working as Software Engineer, but I'm open to different proposals for cooperation too.
 
 If you're interested in my services, feel free to contact me via [Linkedin](https://www.linkedin.com/in/kbuczynski/) or email [kamil.buczynski00@interia.pl](mailto:kamil.buczynski00@interia.pl)
 
